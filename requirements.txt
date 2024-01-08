@@ -1,0 +1,7 @@
+#all the requirements are written over what packages to install
+pylint
+pytest
+black
+ipython
+textblob
+fire
