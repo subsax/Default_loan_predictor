@@ -7,6 +7,9 @@ assessment methods, which largely rely on a borrower's credit score, income, and
 have not been en1rely efficient in predic1ng loan defaults. This inefficiency could be
 aFributed to their inability to capture complex paFerns and rela1onships in the data,
 thereby necessita1ng a more advanced approach.
+
+
+
 Problem: The candidate needs to predict the likelihood of a borrower defaul1ng on a loan
 using a machine learning model. This model should consider a variety of factors that
 poten1ally influence a borrower's ability to repay a loan, such as income, employment
