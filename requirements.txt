@@ -3,5 +3,4 @@ pylint
 pytest
 black
 ipython
-textblob
 fire
